@@ -39,7 +39,7 @@ body {
 }
 
 .apresentacao_index {
-    padding: 5% 5% 6.1% 5%;
+    padding: 5% 5% 6% 5%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -47,7 +47,7 @@ body {
 }
 
 .apresentacao_about {
-    padding: 5% 5% 9.1% 5%;
+    padding: 5% 5% 9% 5%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -117,7 +117,7 @@ body {
 }
 
 .rodape {
-    padding: 15px;
+    padding: 24px;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;
