@@ -124,7 +124,7 @@ body {
         padding: 10%;
     }
 
-    .cabecalho__menu {
+    .cabecalho_menu {
         justify-content: center;
     }
 
@@ -133,7 +133,7 @@ body {
         padding: 5%;
     }
 
-    .apresentacao__conteudo {
+    .apresentacao_conteudo {
         width: auto;
     }
 }
