@@ -38,8 +38,16 @@ body {
     text-decoration: none;
 }
 
-.apresentacao {
-    padding: 5%;
+.apresentacao_index {
+    padding: 5% 5% 6.1% 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 82px;
+}
+
+.apresentacao_about {
+    padding: 5% 5% 8.7% 5%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -109,7 +117,7 @@ body {
 }
 
 .rodape {
-    padding: 24px;
+    padding: 15px;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;
