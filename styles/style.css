@@ -136,7 +136,12 @@ body {
         justify-content: center;
     }
 
-    .apresentacao {
+    .apresentacao_index {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao_about {
         flex-direction: column-reverse;
         padding: 5%;
     }
